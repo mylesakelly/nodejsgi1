@@ -1,0 +1,16 @@
+
+{
+    "employees" : [
+{"employee name": "Myles", "id" : 123456, "salary" : 100000, "department" : "Information Technology"},
+{"employee name" : "Joe", "id" : 123444, "salary" : 50000, "department" : "Communications"},
+{"employee name" : "Sarah", "id" : 123457, "salary" : 80000, "department" : "Marketing"},
+{"employee name" : "Michael", "id" : 123458, "salary" : 85000, "department" : "Communications"},
+{"employee name" : "John", "id" : 123450, "salary" : 95000, "department" : "Diversity and Inclusion"},
+{"employee name" : "Kim","id" : 123453, "salary" : 75000,"department" : "Information Technology"},
+{"employee name" : "Ann", "id" : 123455, "salary" : 65000, "department" : "Marketing"},
+{"employee name" : "Patrick","id" : 123459,"salary" : 45000,"department" : "Production"},
+{"employee name" : "Josh","id" : 123452,"salary" : 99000,"department" : "Fundraising"},
+{"employee name" : "Claire","id" : 123451,"salary" : 45000,"department" : "Organizing"}
+    ]
+}
+
